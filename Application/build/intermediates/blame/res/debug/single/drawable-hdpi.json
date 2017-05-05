@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\_android\\xx_test\\ActionBarCompat-ListPopupMenuSample\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "C:\\_android\\xx_test\\ActionBarCompat-ListPopupMenuSample\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "C:\\_android\\xx_test\\ActionBarCompat-ListPopupMenuSample\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_overflow.png",
+        "source": "C:\\_android\\xx_test\\ActionBarCompat-ListPopupMenuSample\\Application\\src\\main\\res\\drawable-hdpi\\ic_overflow.png"
+    },
+    {
+        "merged": "C:\\_android\\xx_test\\ActionBarCompat-ListPopupMenuSample\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\_android\\xx_test\\ActionBarCompat-ListPopupMenuSample\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

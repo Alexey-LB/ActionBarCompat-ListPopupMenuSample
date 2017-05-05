@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\_android\xx_test\ActionBarCompat-ListPopupMenuSample\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7429e009c14e92a251c33af43a88236d01ff61d">
+        <dex dex="C:\_android\xx_test\ActionBarCompat-ListPopupMenuSample\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_697001982ac1d9410bca16cecbf8acaf1b5c5c05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_android\xx_test\ActionBarCompat-ListPopupMenuSample\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\_android\xx_test\ActionBarCompat-ListPopupMenuSample\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fce4a83f4927a6268d299dfe3b92f7b5172481ce\classes.dex" />
+    </item>
+
+</items>
